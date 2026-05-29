@@ -1,0 +1,8 @@
+# PyInstaller build artifacts (not the exe itself)
+build/
+__pycache__/
+*.pyc
+*.pyo
+
+# Test output
+output/
